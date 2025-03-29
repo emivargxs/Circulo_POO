@@ -1,18 +1,9 @@
-## Getting Started
+## Exercicio Círcuclo POO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Modele e implemente em Java a abstração do elemento geométrico círculo. Não utilize a
+classe de desenho de círculo presente na API de classes da linguagem. Deseja-se que o círculo
+possua informações de posicionamento no plano cartesiano (coordenadas não-negativas no
+eixo X e Y) dados por um ponto central, além do raio associado. Deve ser possível calcular a área
+do círculo, o comprimento da circunferência e mudar a posição do círculo.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
